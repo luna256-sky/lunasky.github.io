@@ -15,10 +15,10 @@ They then **ship**the idea for the production code
 ##Structure
 **There are tow types of structures for data scientists that is **embedded** and **in house consultancy**
 
-##Embedded
+##**Embedded**
 **It consists on a group of data scientists,software engineers and analysists who are given a single purpose or problem to slove.
 
-##In house consultancy
+##**In house consultancy**
 ** It consists on a group of data scientists,software engineers and analysists who are given wide range of problems to slove not just a single domain.
 
 ##Benefits of being a data scientist
