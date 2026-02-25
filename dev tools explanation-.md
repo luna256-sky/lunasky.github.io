@@ -5,4 +5,7 @@ HTML tags used are:
 <title></title>
 <body></body>
 <div></div>
-<
+<p></p>
+<a></a>
+<style></style>
+<meta></meta>
